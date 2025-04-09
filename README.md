@@ -64,6 +64,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Contact
 
-Ali Akbar Khan - [LinkedIn](https://www.linkedin.com/in/aliiakbarkhan) - aliakbarkhana79@f=gmail.com
+Ali Akbar Khan - [LinkedIn](https://www.linkedin.com/in/aliiakbarkhan) - aliakbarkhana79@gmail.com
 
 Project Link: [machine-learning-zero](https://github.com/aliiakbarkhan/machine-learning-zero)
